@@ -11,5 +11,7 @@ cmake --build .
 ```
 # Using
 Right-Click = shockwave
+
 Left-Click = Add particles
+
 c = Activate/Deactivate magnatic effect
